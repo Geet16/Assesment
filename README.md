@@ -31,7 +31,7 @@ For example, according to the above table, we should output:
 2. Given a string s="assesment" and an integer array indices of the same length [4,5,6,7,0,2,1,3,8] . write a programe to shuffle The string s such that the character at the ith position moves to indices[i] in the shuffled string. 
 
 
-QE Framework Exercise:
+3. QE Framework Exercise:
 
 The task is to build automation framework providing an example structure which you will deliver to client and add the below steps into framework using best practices required to build and maintain the below script for long term use in automation like Page object model and/or BDD and this task can be implemented in any automation tool in any desired programming language.
 
