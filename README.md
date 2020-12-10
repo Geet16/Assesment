@@ -7,6 +7,7 @@ Create your branch with your name and push the code to the repo and create a PR 
 Create a folder and write the code for below two task.
 
 1. There is a table World
+
 +-----------------+------------+------------+--------------+---------------+
 | name            | continent  | area       | population   | gdp           |
 +-----------------+------------+------------+--------------+---------------+
